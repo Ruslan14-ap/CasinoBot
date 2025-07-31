@@ -1,15 +1,15 @@
-token = ''
-api_cryptobot = ''
+token = '7509170152:AAF4wLRydXo5-ZE8MN0ZuF-y4mt8Zcuhba0'
+api_cryptobot = '438828:AAQvcNGKhyexGqHxlGcjCbcaMH78P4WivNK'
 
-channal_id = -1002103256870
-ID_SEND_TRANSFER = -1002011813882
-URL_LOG_CHANNAL = -1002173546748
+channal_id = -1002765088293
+ID_SEND_TRANSFER = -1002442133177
+URL_LOG_CHANNAL = -1002775489905
 
-ADMIN = [6038457276]
-ADMIN_USERNAME = '@MamaYaWorkerSuka'
-URL_BOT = 'https://t.me/AloBiznes?DadaDengi'
-NICNAME = 'AloBiznes?DadaDengi'
-NAME_CASINO = 'CasinoDengi'
+ADMIN = [863968978]
+ADMIN_USEtg://user?id=RNAME = '@Damxll'
+URL_BOT = 'https://t.me/Goalcasino_bot'
+NICNAME = 'Goalcasino'
+NAME_CASINO = 'GOAL CASINO'
 
 LIMIT_STAVKA = 30
 lose_withdraw = 20
